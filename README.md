@@ -1,7 +1,5 @@
 # Flower-Store-Website
 
-# 🌸 Flower Store Website
-
 ## About the Project
 
 The **Flower Store Website** is an e-commerce platform where users can browse, search, and purchase various flowers. It is designed to provide an elegant and user-friendly shopping experience for flower enthusiasts. The project demonstrates key features of an online store including a product catalog, shopping cart, and order processing.
